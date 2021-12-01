@@ -4,10 +4,10 @@ Jogo da velha utilizando sockets no python
 Video: https://youtu.be/L6LhZt76R3Y
 
 Nomes: 
-Aleck Fernandes Inacio
-Felipe Silva Alexandre
-Anderson Lima Marques
-Vinicius Sousa Gomes
+Aleck Fernandes Inacio,
+Anderson Lima Marques,
+Felipe Silva Alexandre,
+Vinicius Sousa Gomes.
 
 Disciplina:
 Jogos Digitais 5º semestre - JOGNA5
